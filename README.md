@@ -1,2 +1,3 @@
 
-command : npx cypress open
+
+to run this test-case command : npx cypress open
